@@ -523,7 +523,7 @@
             {
                 id: 'p1',
                 name: 'iPhone 15 Pro Max',
-                basePrice: 29.990.000,
+                basePrice: 29990000,
                 image:'https://raw.githubusercontent.com/ipshopvip/My-images/1de8a8aaafd2c5c42974c7b9aa3d0c65330e06ad/ip15prm.jpg,
                 description: 'iPhone 15 Pro Max là điện thoại thông minh cao cấp với chip A17 Bionic, camera Pro mạnh mẽ và màn hình Super Retina XDR.',
                 options: {
